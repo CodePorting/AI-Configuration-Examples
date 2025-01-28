@@ -1,0 +1,5 @@
+- put into 'codeporting' namespace
+- import 'wrapper' function from 'codeporting/xyz/math.js'
+- set export modifier for 'add' function in 'math_operations.py' module
+- move all function of 'math_operations.py' module to class 'Math'
+- when calculator.py, take in account that all math functions are in 'Math' class
